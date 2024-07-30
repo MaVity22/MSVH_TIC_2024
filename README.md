@@ -15,5 +15,6 @@ Disponible en: Anexo4_Acuerdo_Consentimiento_Asociacion_Invidentes.zip
 ANEXO5: Encuesta utilizada para validar la funcionalidad del servicio
 Disponible en: https://forms.office.com/Pages/ResponsePage.aspx?id=ak4qaH-nWEmjrJ4mbRiqN10TkVAFi2RHp0f95sDUrVZUNUlaNkJZMlhYNk9MM0dGNFlHRU5BU1UyOC4u
 
-ANEXO6: Resultados consolidados de la encuesta realizada
+ANEXO6: Resultados consolidados de la encuesta realizada 
+
 Disponible en: Anexo6_Resultados_Validacion_Prototipo.zip
